@@ -1,6 +1,6 @@
 cask "sarv-terminal" do
-  version "1.12.2"
-  sha256 "e954e75518d5da0f032ce9c361bbf1826b4a382d62e78d989e5e5c56e66ee8de"
+  version "1.12.3"
+  sha256 "41e2c2c2d81f87d1f133bfb58c9f25f5dd4e02b073e7b9c9adc7b4fb6056f13e"
 
   url "https://github.com/Sarv/SarvTerminal/releases/download/v#{version}/SarvTerminal-#{version}.dmg",
       verified: "github.com/Sarv/SarvTerminal/"
